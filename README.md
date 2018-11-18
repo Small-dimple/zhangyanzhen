@@ -1,6 +1,5 @@
 # zhangyanzhen
 IOS
-软一张燕桢
 #include<iostream>
  using namespace std;
  int main ()
